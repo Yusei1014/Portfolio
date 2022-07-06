@@ -1,0 +1,9 @@
+下記URLにアクセスしてください。
+https://docs.google.com/spreadsheets/d/1GTnbDXHyMqe9ISry2Eifw9uwhArKM7xe3Ul87xTr1LA/edit#gid=1850059145
+
+Aの列に取得したい企業名を入れていき、test.pyを実行すると、
+「キャリコネ」、「転職会議」、「オープンワーク」の3つのサイトから
+総合評価や各評価、平均年収を取得してCSVファイルに出力してくれます。
+
+＊＊スプレッドシートの認証時、jsonファイルが格納されているディレクトリの
+PATHだけ変更してもらう必要があるかもしれないです。
